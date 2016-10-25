@@ -3,7 +3,7 @@ var ReactDOM = require('react-dom');
 
 var Person = function() {
     var name = 'Derek Zoolander';
-    var imageUrl = 'http://uifaces.com/assets/static/images/zoolander.jpg';
+    var imageUrl = 'https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg';
     var job = 'Male model';
     return (
         <div className="person">
